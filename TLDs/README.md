@@ -1,6 +1,4 @@
-# UTILS
-___
-## tlds.py
+# tlds.py
 Pull the current data from ICANN's list of TLDs [Raw Data](https://data.iana.org/TLD/tlds-alpha-by-domain.txt)
 ### Usage
 ```shell
